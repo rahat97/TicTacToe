@@ -3,8 +3,7 @@
  *
  * STUDENTS: Nothing to change here.
  *
- * @author INSERT YOUR NAME(S) HERE
- */
+ * @author Md.Abdur Rakib Rahat */
 
 public interface AI {
     /**
